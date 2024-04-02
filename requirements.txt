@@ -1,0 +1,11 @@
+numpy
+pandas
+polars
+scikit-learn
+statsmodels
+seaborn
+missingno
+pyarrow
+plotly
+tensorflow
+optuna
