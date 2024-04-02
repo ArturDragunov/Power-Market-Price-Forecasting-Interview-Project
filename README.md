@@ -1,5 +1,5 @@
 # Energy Trading Company Interview Screening Project
-This repository contains a solution notebook for an interview screening project conducted for an energy trading company. The primary objective of the project was to develop an algorithm capable of forecasting electricity prices for the next 24 hours, starting from 00:00 of the following day. It's important to note that the dataset and the task description provided by the company are proprietary and cannot be included in this repository.
+This repository contains a solution notebook for an interview screening project conducted for an energy trading company. The primary objective of the project was to develop an algorithm capable of forecasting electricity prices for the next 24 hours, starting from 00:00 of the following day, and to do it consequently day by day. It's important to note that the dataset and the task description provided by the company are proprietary and cannot be included in this repository.
 
 Project Overview
 The project involved analyzing hourly power prices spanning from January to April. The main focus was on accurately predicting April's prices. The notebook is structured into five key stages:
